@@ -1,7 +1,8 @@
-# Author: Roman Belov
-# Created on: 2025-01-15
-# License: MIT (if applicable)
-
+  """ 
+Author: Roman Belov
+Created on: 2025-01-15
+License: MIT (if applicable)
+  """
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 from enum import Enum
